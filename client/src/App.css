@@ -1,0 +1,12 @@
+.main{
+    padding-top: 1rem;
+    position: relative;
+    min-height: 100vh;
+}
+#footer{
+   
+ position: sticky;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem; 
+  }
