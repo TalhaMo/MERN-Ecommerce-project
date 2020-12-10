@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "engines": {
+    "node": "12.18.3",
+    "npm":"6.14.8"
+  },
   "scripts": {
     "start": "node server",
     "client": "npm start --prefix client",
